@@ -1,7 +1,7 @@
 # portfolioPage
 Static technical portfolio website displaying my latest projects. Also includes an about me and how to contact me.
 
-**Link to project:**  [http://www.personalPortfolio.com/](https://briansegura15.github.io/theDollarToPesoToday/)
+**Link to project:**  [http://www.personalPortfolio.com/](https://briansegura15.github.io/portfolioPage/)
 
 ![Colombian Currency Full](https://user-images.githubusercontent.com/84042284/196479988-d9495b3d-1741-4b5c-970a-1ba4d701319a.png)
 
