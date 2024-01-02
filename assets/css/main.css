@@ -3347,6 +3347,10 @@ body.is-touch .poptrox-popup .closer {
   width: 50%;
 }
 
+p {
+  color: black;
+}
+
 /* #two h3:hover {
   transform: scale(1.1);
 } */
